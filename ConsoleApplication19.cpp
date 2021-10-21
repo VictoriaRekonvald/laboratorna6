@@ -8,6 +8,7 @@ using namespace std;
 int main()
 {
     double y, x, z;
+    cout << "Cycle for" << endl;
     cout << "Enter x = ";
     cin >> x;
     cout << "Enter y = ";
